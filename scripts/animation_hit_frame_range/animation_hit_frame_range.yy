@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"animation_hit_frame_range",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"animation_hit_frame_range",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

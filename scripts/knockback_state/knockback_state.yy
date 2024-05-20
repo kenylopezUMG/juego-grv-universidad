@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"knockback_state",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"knockback_state",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
